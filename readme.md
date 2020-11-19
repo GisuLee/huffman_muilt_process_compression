@@ -5,22 +5,22 @@
 - 사용 언어 및 플랫폼 : Linux, C
 
 ## 1. 압축 DFD
-![](http)
+![](https://raw.githubusercontent.com/GisuLee/huffman_muilt_process_compression/master/dfd_encode_mul.png)
 
-##2. 압축 해제 DFD
-![](http)
+## 2. 압축 해제 DFD
+![](https://raw.githubusercontent.com/GisuLee/huffman_muilt_process_compression/master/dfd_decode_mul.png)
 
-##3. 압축 파일의 구조
-![](http://)
+## 3. 압축 파일의 구조
+![](https://raw.githubusercontent.com/GisuLee/huffman_muilt_process_compression/master/filestruct.png)
 
-##4. 사용법
+## 4. 사용법
 
 ### 압축
-명령어 : <-ep> <input file list> <output compression file name>
-![](http://)
+명령어 : <-ep> <input file list> <output compression file name>   
+![](https://raw.githubusercontent.com/GisuLee/huffman_muilt_process_compression/master/compression.png)   
 <4개의 프로세스가 병렬적으로 파일데이터를 압축>
 
 ### 압축 해제
-명령어 : <-dp> <compression file> <output folder path>
-![](http://)
+명령어 : <-dp> <compression file> <output folder path>   
+![](https://raw.githubusercontent.com/GisuLee/huffman_muilt_process_compression/master/decompression.png)   
 <4개의 프로세스가 병렬적으로 압축해제>
