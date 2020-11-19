@@ -1,26 +1,26 @@
-# ÇãÇÁ¸¸ ¾Ë°í¸®Áò°ú ¸ÖÆ¼ ÇÁ·Î¼¼½º¸¦ ÀÌ¿ëÇÑ ¸ÖÆ¼ ¾ÐÃà ¹× ÇØÁ¦ ÇÁ·Î±×·¥
-¸®´ª½ºÀÇ fork() ÇÔ¼ö¸¦ ÀÌ¿ëÇØ ¸ÖÆ¼ ÇÁ·Î¼¼½º¸¦ ±¸ÇöÇÏ°í, 
-°øÀ¯¸Þ¸ð¸® ¹× ½Ã±×³ÎÀ» ÅëÇØ ÇÁ·Î¼¼½º°£ Åë½Å ¹× µ¿±âÈ­ÇÏ¿© ´Ù¼öÀÇ ÆÄÀÏµ¥ÀÌÅÍ¸¦ º´·ÄÀûÀ¸·Î ¾ÐÃà ¹× ÇØÁ¦ ÇÒ ¼ö ÀÖ½À´Ï´Ù.
+# í—ˆí”„ë§Œ ì•Œê³ ë¦¬ì¦˜ê³¼ ë©€í‹° í”„ë¡œì„¸ìŠ¤ë¥¼ ì´ìš©í•œ ë©€í‹° ì••ì¶• ë° í•´ì œ í”„ë¡œê·¸ëž¨
+ë¦¬ëˆ…ìŠ¤ì˜ fork() í•¨ìˆ˜ë¥¼ ì´ìš©í•´ ë©€í‹° í”„ë¡œì„¸ìŠ¤ë¥¼ êµ¬í˜„í•˜ê³ , 
+ê³µìœ ë©”ëª¨ë¦¬ ë° ì‹œê·¸ë„ì„ í†µí•´ í”„ë¡œì„¸ìŠ¤ê°„ í†µì‹  ë° ë™ê¸°í™”í•˜ì—¬ ë‹¤ìˆ˜ì˜ íŒŒì¼ë°ì´í„°ë¥¼ ë³‘ë ¬ì ìœ¼ë¡œ ì••ì¶• ë° í•´ì œ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
 
-- »ç¿ë ¾ð¾î ¹× ÇÃ·§Æû : Linux, C
+- ì‚¬ìš© ì–¸ì–´ ë° í”Œëž«í¼ : Linux, C
 
-## 1. ¾ÐÃà DFD
+## 1. ì••ì¶• DFD
 ![](http)
 
-##2. ¾ÐÃà ÇØÁ¦ DFD
+##2. ì••ì¶• í•´ì œ DFD
 ![](http)
 
-##3. ¾ÐÃà ÆÄÀÏÀÇ ±¸Á¶
+##3. ì••ì¶• íŒŒì¼ì˜ êµ¬ì¡°
 ![](http://)
 
-##4. »ç¿ë¹ý
+##4. ì‚¬ìš©ë²•
 
-### ¾ÐÃà
-¸í·É¾î : <-ep> <input file list> <output compression file name>
+### ì••ì¶•
+ëª…ë ¹ì–´ : <-ep> <input file list> <output compression file name>
 ![](http://)
-<4°³ÀÇ ÇÁ·Î¼¼½º°¡ º´·ÄÀûÀ¸·Î ÆÄÀÏµ¥ÀÌÅÍ¸¦ ¾ÐÃà>
+<4ê°œì˜ í”„ë¡œì„¸ìŠ¤ê°€ ë³‘ë ¬ì ìœ¼ë¡œ íŒŒì¼ë°ì´í„°ë¥¼ ì••ì¶•>
 
-### ¾ÐÃà ÇØÁ¦
-¸í·É¾î : <-dp> <compression file> <output folder path>
+### ì••ì¶• í•´ì œ
+ëª…ë ¹ì–´ : <-dp> <compression file> <output folder path>
 ![](http://)
-<4°³ÀÇ ÇÁ·Î¼¼½º°¡ º´·ÄÀûÀ¸·Î ¾ÐÃàÇØÁ¦>
+<4ê°œì˜ í”„ë¡œì„¸ìŠ¤ê°€ ë³‘ë ¬ì ìœ¼ë¡œ ì••ì¶•í•´ì œ>
